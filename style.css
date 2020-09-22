@@ -1,0 +1,28 @@
+#inner1 {
+    background-color: rgb(162, 0, 255);
+    border: 3px solid salmon;
+    color: white;
+  }
+  #something {
+    text-align: center;
+  }
+  .bton {
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+  }
+  #blue {
+    background-color: rgb(48 15 193);
+  }
+  #yellow {
+    background-color: rgb(214, 204, 67);
+  }
+  #green {
+    background-color: rgb(4, 73, 33);
+  }
+  #orange {
+    background-color: rgb(238, 99, 64);
+  }
+  .cen {
+    text-align: left;
+  }
